@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	easy.RunCase14()
+	easy.RunCase21()
 }
